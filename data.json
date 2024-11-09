@@ -1,0 +1,127 @@
+[
+    {
+      "recipeName": "Spaghetti Carbonara",
+      "cuisineType": "Italian",
+      "ingredients": [
+        {"name": "Spaghetti", "quantity": "200g"},
+        {"name": "Pancetta", "quantity": "100g", "preparation": "diced"},
+        {"name": "Parmesan cheese", "quantity": "50g", "preparation": "grated"},
+        {"name": "Egg yolks", "quantity": "2"},
+        {"name": "Garlic", "quantity": "1 clove", "preparation": "crushed"},
+        {"name": "Olive oil", "quantity": "1 tbsp"},
+        {"name": "Salt", "quantity": "to taste"},
+        {"name": "Black pepper", "quantity": "to taste", "preparation": "freshly ground"}
+      ],
+      "instructions": [
+        "Cook spaghetti in salted boiling water until al dente.",
+        "In a skillet, cook pancetta until crispy; add garlic briefly.",
+        "Whisk egg yolks and Parmesan together in a bowl.",
+        "Combine spaghetti with pancetta, remove from heat.",
+        "Stir in egg mixture, adjust with pasta water for creaminess.",
+        "Season and serve with extra Parmesan."
+      ],
+      "image": "https://images.unsplash.com/photo-1560434019-4558f9a9e2a1?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Nnx8Y2FyYm9uYXJhfGVufDB8MXwwfHx8MA%3D%3D"
+    },
+    {
+      "recipeName": "Chicken Tikka Masala",
+      "cuisineType": "Indian",
+      "ingredients": [
+        {"name": "Chicken breast", "quantity": "500g", "preparation": "cubed"},
+        {"name": "Yogurt", "quantity": "1/2 cup"},
+        {"name": "Ginger-garlic paste", "quantity": "2 tbsp"},
+        {"name": "Garam masala", "quantity": "1 tbsp"},
+        {"name": "Tomato puree", "quantity": "1 cup"},
+        {"name": "Cream", "quantity": "1/2 cup"},
+        {"name": "Cumin", "quantity": "1 tsp"},
+        {"name": "Salt", "quantity": "to taste"},
+        {"name": "Cilantro", "quantity": "for garnish"}
+      ],
+      "instructions": [
+        "Marinate chicken in yogurt, ginger-garlic paste, and spices for 1 hour.",
+        "Grill chicken until cooked, set aside.",
+        "In a pan, cook tomato puree, add cream, and simmer.",
+        "Add chicken to sauce, garnish with cilantro."
+      ],
+      "image": "https://images.unsplash.com/photo-1610057099443-fde8c4d50f91?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8M3x8Y2hpY2tlbiUyMHRpa2thJTIwbWFzYWxhfGVufDB8MXwwfHx8MA%3D%3D"
+    },
+    {
+      "recipeName": "Sushi Rolls",
+      "cuisineType": "Japanese",
+      "ingredients": [
+        {"name": "Sushi rice", "quantity": "2 cups"},
+        {"name": "Nori sheets", "quantity": "4"},
+        {"name": "Cucumber", "quantity": "1", "preparation": "julienned"},
+        {"name": "Avocado", "quantity": "1", "preparation": "sliced"},
+        {"name": "Smoked salmon", "quantity": "200g"},
+        {"name": "Soy sauce", "quantity": "for serving"}
+      ],
+      "instructions": [
+        "Cook sushi rice, let cool, and season.",
+        "Lay nori on mat, spread rice on nori.",
+        "Add cucumber, avocado, and salmon.",
+        "Roll tightly, slice, and serve with soy sauce."
+      ],
+      "image": "https://images.unsplash.com/photo-1564489563601-c53cfc451e93?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Nnx8c3VzaGl8ZW58MHwxfDB8fHww"
+    },
+
+    {
+      "recipeName": "Shakshuka",
+      "cuisineType": "Middle Eastern",
+      "ingredients": [
+        {"name": "Eggs", "quantity": "4"},
+        {"name": "Bell pepper", "quantity": "1", "preparation": "diced"},
+        {"name": "Tomatoes", "quantity": "2 cups", "preparation": "diced"},
+        {"name": "Onion", "quantity": "1", "preparation": "diced"},
+        {"name": "Garlic", "quantity": "2 cloves", "preparation": "minced"},
+        {"name": "Paprika", "quantity": "1 tsp"},
+        {"name": "Cumin", "quantity": "1 tsp"},
+        {"name": "Salt", "quantity": "to taste"}
+      ],
+      "instructions": [
+        "Sauté onions, garlic, and bell pepper in a skillet.",
+        "Add tomatoes and spices, simmer until thickened.",
+        "Make wells in sauce, crack eggs into wells.",
+        "Cover and cook until eggs are set."
+      ],
+      "image": "https://images.unsplash.com/photo-1682622110419-b671026a4536?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mnx8c2hha3NodWthfGVufDB8MXwwfHx8MA%3D%3D"
+    },
+    {
+      "recipeName": "Pancakes",
+      "cuisineType": "American",
+      "ingredients": [
+        {"name": "All-purpose flour", "quantity": "1 cup"},
+        {"name": "Milk", "quantity": "3/4 cup"},
+        {"name": "Egg", "quantity": "1"},
+        {"name": "Butter", "quantity": "2 tbsp", "preparation": "melted"},
+        {"name": "Sugar", "quantity": "1 tbsp"},
+        {"name": "Baking powder", "quantity": "1 tsp"},
+        {"name": "Salt", "quantity": "a pinch"}
+      ],
+      "instructions": [
+        "Mix flour, sugar, baking powder, and salt in a bowl.",
+        "Whisk in milk, egg, and melted butter.",
+        "Pour batter onto a heated skillet, cook until bubbles form.",
+        "Flip and cook until golden."
+      ],
+      "image": "https://images.unsplash.com/photo-1519676867240-f03562e64548?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8M3x8cGFuY2FrZXxlbnwwfDF8MHx8fDA%3D"
+    },
+    {
+      "recipeName": "Falafel",
+      "cuisineType": "Middle Eastern",
+      "ingredients": [
+        {"name": "Chickpeas", "quantity": "1 cup", "preparation": "soaked"},
+        {"name": "Onion", "quantity": "1", "preparation": "chopped"},
+        {"name": "Garlic", "quantity": "2 cloves", "preparation": "minced"},
+        {"name": "Parsley", "quantity": "1/4 cup", "preparation": "chopped"},
+        {"name": "Cumin", "quantity": "1 tsp"},
+        {"name": "Coriander", "quantity": "1 tsp"},
+        {"name": "Salt", "quantity": "to taste"}
+      ],
+      "instructions": [
+        "Blend all ingredients to form a thick paste.",
+        "Shape into small balls, deep-fry until golden brown.",
+        "Serve with pita and tahini sauce."
+      ],
+      "image": "https://images.unsplash.com/photo-1701688596783-231b3764ef67?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mnx8ZmFsYWZlbHxlbnwwfDF8MHx8fDA%3D"
+    }
+  ]
